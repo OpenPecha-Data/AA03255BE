@@ -1,0 +1,19 @@
+id: AA03255BE
+title: An Aspiration for the Final Age
+type: translation
+pechas:
+- IE74D5C08
+- I23C93090
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:40:01.620882
+  last_modified_at: 2023-01-04 12:40:01.620904
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IE74D5C08/8E06: EC64
+  I23C93090/C56D: EC64
